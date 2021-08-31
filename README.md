@@ -8,5 +8,7 @@ Cada nó da árvore é composto por vetor de registro chamado Chave, com no máx
 
 Para o funciomanento do programa é necessário ter um arquivo .csv com os pacotes de redes já coletados no seguinte formato:
 
-![image-20210831101546173](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210831101546173.png)
+"Number", "Time", "Source", "Destination", "Protocol", "Length", "Info".
+
+
 
